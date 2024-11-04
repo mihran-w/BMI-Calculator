@@ -1,6 +1,4 @@
-height = int(input("Please Enter Your Height : "))
-weight = int(input("Please Enter Your weight : "))
+import calc
 
-result = ((weight * 10000 / (height * height)))
+calc.c()
 
-print(result)
